@@ -1,3 +1,7 @@
+Content of README.md file in repo https://github.com/username/username
+
+You found a secret! username/usernameis a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
+
 ### Hi there 👋
 
 <!--
